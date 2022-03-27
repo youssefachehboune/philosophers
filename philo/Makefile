@@ -12,7 +12,7 @@
 
 NAME = philo
 
-CFLAGS = -Wall -Wextra -Werror -pthread
+CFLAGS = -Wall -Wextra -Werror -lpthread
 
 SRCS = fill.c init.c observer.c philo.c philo_utils.c routine.c
 
