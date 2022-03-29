@@ -70,7 +70,7 @@ int	philo_run(t_data *data, t_philo *philo)
 	{
 		if (pthread_create(&philo[i].thread, NULL, routine, (&philo[i])))
 		{
-			printf("Error\nmutex init failed\n");
+			printf("Error\pthread create failed\n");
 			return (1);
 		}
 		if (pthread_detach(philo[i].thread))
