@@ -49,4 +49,4 @@ For more informations [Subject](/Philosophers.en.pdf).
 | ./philo 4 310 200 100 | A philosopher should die! |
 | ./philo 2 400 200 200 | A death delayed by more than 10 ms is unacceptable. |
 
-[Correction pag](/Philosophers_correction.pdf).
+[Correction page](/Philosophers_correction.pdf)
