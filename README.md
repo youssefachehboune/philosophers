@@ -4,7 +4,7 @@ It goes like this. There are 5 Philosophers sitting at a round dining table. The
 
 This project is a training to multi-threads/multi-process programming with the use of mutex and semaphore. It contains 2 different programs simulating a twist of the famous Dining Philosophers problem, all with the same basic rules.
 
-![](./demo/problem.png)
+![](./demo/problem.png) 
 
 ### Lancement :
   ```
